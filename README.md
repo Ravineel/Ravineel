@@ -1,4 +1,9 @@
 ### Hi there 👋
+***I am Ravineel Singhi (just call me Ravi!), I am a 3rd year student at SRM Institute of Science and Technology, KTR Campus***
+
+
+
+
 
 <!--
 **Ravineel/Ravineel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
