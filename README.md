@@ -3,7 +3,7 @@
 
 ***🌱 I’m currently ML, Dl, RL, Web Development and Cloud***
 
-###👯 I’m looking to collaborate:
+### 👯 I’m looking to collaborate:
 ***I am looking to collaborate on projects in the field of Data Science***
 
 
