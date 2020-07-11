@@ -1,7 +1,7 @@
 ### Hi there 👋
 ***I am Ravineel Singhi (just call me Ravi!), I am a 3rd year student at SRM Institute of Science and Technology, KTR Campus.***
 
-***8🌱 I’m currently ML, Dl, RL, Web Development and cloud***
+***🌱 I’m currently ML, Dl, RL, Web Development and cloud***
 
 
 
