@@ -10,7 +10,7 @@
 
 ### 💬 Ask me
 
-***You can ask me anything  be it regarding to courses I am doing, competetive programing, Data Science, ETC ..***
+***You can ask me anything on the courses I am doing, competetive programing, Data Science, ETC ..***
 
 ###  📫 How to reach me:
 ***You can drop me message on my linkedin profile : https://www.linkedin.com/in/ravineel/ or by mail rajatsinghi89@gmail.com***
