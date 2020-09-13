@@ -1,19 +1,20 @@
 ### Hi there 👋
+
+## Welcome
 ***I am Ravineel Singhi (just call me Ravi!), I am a 3rd year student at SRM Institute of Science and Technology, KTR Campus.***
 
-***🌱 I’m currently doing courses on ML, Dl, RL, Web Development and Cloud***
+## 🌱 I’m currently learning
+***doing courses on Dl, RL, Web Development and Cloud***
 
-### 👯 I’m looking to collaborate:
-***I am looking to collaborate on projects in the field of Data Science***
+## 👯 I’m looking to collaborate:
+***on projects in the field of Data Science or full satck development***
 
+##💬 Ask me
 
-
-### 💬 Ask me
-
-***You can ask me anything on the courses I am doing, competetive programing, Data Science, ETC ..***
+***anything on the courses I am doing, competetive programing, Data Science, ETC ..***
 
 ###  📫 How to reach me:
-***You can drop me message on my linkedin profile : https://www.linkedin.com/in/ravineel/ or by mail rajatsinghi89@gmail.com***
+***drop me message on my linkedin profile : https://www.linkedin.com/in/ravineel/ or by mail rajatsinghi89@gmail.com***
 
 
 
